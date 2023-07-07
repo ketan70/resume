@@ -35,7 +35,7 @@
 
 ## SKILLS
 
-**Programming Languages : ** C++ | Java | python | JavaScript | C
+**Programming Languages** : C++ | Java | python | JavaScript | C
 
 **Technologies** : SQL | HTML | CSS | WordPress | Web APIs | Back-End | Front-End | Azure
 
@@ -49,11 +49,11 @@
 - Honors in Artificial Intelligence and Machine Learning (AIML)
 
 ## ACHIEVEMENTS
-
-- **Competitive Programming:** CodeChef Rating - 1492 ★ ★ coder
+#### **Competitive Programming**
+- CodeChef Rating - 1492 ★ ★ coder
 - GeeksforGeeks - Institution Rank: 4
 -  JEE entrance exam - Scored 90.89% percentile
--  
+  
 ## Certifications 
 ** Front-End Development from Duke University       |  Python Data Science from IBM**
 ** Microsoft Azure AI-900 from Microsoft            |  AI4students Workshop from  Microsoft

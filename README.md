@@ -55,8 +55,8 @@
 -  JEE entrance exam - Scored 90.89% percentile
   
 ## Certifications 
-** Front-End Development from Duke University       |  Python Data Science from IBM**
-** Microsoft Azure AI-900 from Microsoft            |  AI4students Workshop from  Microsoft
+**Front-End Development from Duke University**       |  **Python Data Science from IBM**
+**Microsoft Azure AI-900 from Microsoft**            |  **AI4students Workshop from  Microsoft**
 
 
 ## Coursework 

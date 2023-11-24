@@ -11,16 +11,11 @@
 - Achieved a **40% reduction** in website loading time and a **25% increase** in user engagement
 - Utilized APIs, Django, React, Python, and more to deliver optimized solutions with a **90% efficiency**
 
-### Microsoft [FRT]
+### Microsoft Azure
 *Intern | Jan to Mar 2022 | India*
 - Developed and deployed web apps and AI tools using Microsoft Azure's comprehensive suite of services
 - Leveraged Azure, AI, cloud, VM, and webApp to achieve a substantial reduction in resource usage by **90%**
 
-
-### LetgrowMore.Pvt.Ltd
-*Intern | Dec 2021 to Jan 2022 | India*
-- Achieved substantial reduction in resource usage by 90% by leveraging advanced technologies, resulting in improved efficiency and cost savings.
-- Implemented ML solutions using TensorFlow, python , and model selection for high-quality results
 
 ## PROJECTS
 
